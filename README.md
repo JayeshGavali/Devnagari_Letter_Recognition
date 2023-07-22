@@ -8,7 +8,7 @@ Requirements :
 Steps for Execution:
 1. Clone the repository in appropriate folder
 ```
-git clone https://github.com/PrathameshGadilohar/devanagari-ocr.git
+git clone https://github.com/JayeshGavali/Devnagari_Letter_Recognition.git
 ```
 2. Create a new environment : Open New Terminal ->  Use Command Prompt
 ```
